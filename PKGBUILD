@@ -20,7 +20,7 @@ sha256sums=('d401cea325a49c9fb17c7b999cbdc1c4cba3ee6109689868663d42fb6fb5c4a4'
             '8c80b881727efc8831c8ef53806e7c1d0427607e145aae09061c4870b6cd402f'
             '5e7d8eedffb7b21f0f61b6f2b60e534d7d89c638409f2889d3ee58f6b9368267'
             'e9524cdb27c57e6650af763b2231d67ff3e2beb12f52133e7e95eda4f16b0881'
-            '8a5ed6a6c1a4dfd1c8af0ff5de48965ec2dc6b50f87e5f990d33c7025f63c8ec')
+            'SKIP')
 
 #PKGEXT=".pkg.tar"
 
