@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=qemu-android
+Name=Android
 Comment=Android-x86 environment via QEMU and VirGL
 Exec=/usr/bin/qemu-android gui
 Terminal=false
