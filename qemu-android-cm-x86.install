@@ -3,7 +3,7 @@ post_install() {
   update-desktop-database -q
   echo "To use, per user:"
   echo "	mkdir ~/.config/android-x86 &&"
-  echo "		cp /usr/share/android-x86/config ~/.config/android-x86"
+  echo "	cp /usr/share/android-x86/config ~/.config/android-x86"
   who=$(who | awk '{ print $1 }' | head -n 1)
   chown $who:$who -R ~/.config/android-x86
   echo "And then edit the config file to taste."
